@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 ## Food Ordering App
 
-### Features:
-
----
-
 ### Technologies Used:
 
 1. React.js
