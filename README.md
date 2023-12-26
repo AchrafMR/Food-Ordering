@@ -23,5 +23,4 @@ npm i
 
 ```
 =======
-# Food-Ordering
->>>>>>> 8c41c5d2b59ff1ac0eb6fab4a5a6a072119f1efa
+
