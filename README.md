@@ -32,10 +32,6 @@ To start the project, follow these simple steps:
 
 This will initiate the development server, and you can access the Food Ordering App in your browser.
 
-## Author:
-
-Achraf Mechhour
-
 ## Contribution:
 
 Feel free to explore the code and contribute to the development of this Food Ordering App. If you encounter any issues or have suggestions for improvement, please create an issue or submit a pull request.
@@ -45,3 +41,11 @@ Feel free to explore the code and contribute to the development of this Food Ord
 If you have any feedback or questions, feel free to reach out.
 
 Happy coding!
+### Show your support
+
+Give a ⭐ if you like this website!
+
+<a href="https://www.buymeacoffee.com/achrafmechw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+## Author:
+Achraf Mechhour
+
